@@ -16,8 +16,9 @@ Provided Mockuped up Dashboard:-
 ![mock up dashboard_atliq grands](https://github.com/susmitagupta10/AtilQ-Hospitality-Analysis/assets/166834605/d6b758f4-5725-4007-9cb2-e856ca6e592e)
 
 Report:
+![Screenshot 2024-06-15 085437](https://github.com/susmitagupta10/AtilQ-Hospitality-Analysis/assets/166834605/a673d449-5488-44b7-b77d-cf952521037c)
 
-[#C1 Hospitality.pdf](https://github.com/user-attachments/files/15845834/C1.Hospitality.pdf)
+
 
 
 
