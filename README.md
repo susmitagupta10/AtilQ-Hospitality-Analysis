@@ -12,7 +12,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 2.Create a dashboard according to the mock-up provided by stakeholders.
 3.Create relevant insights that are not provided in the metric list/mock-up dashboard.
 Provided Mockuped up Dashboard:-
+
 ![mock up dashboard_atliq grands](https://github.com/susmitagupta10/AtilQ-Hospitality-Analysis/assets/166834605/d6b758f4-5725-4007-9cb2-e856ca6e592e)
+
+Report:
+
+[#C1 Hospitality.pdf](https://github.com/user-attachments/files/15845834/C1.Hospitality.pdf)
 
 
 
