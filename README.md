@@ -20,17 +20,20 @@ Project Insights:-
 1. Overall Revenue approx 1708.8 M.
 2. Overall Cancellation rate 24.83%
 3. Ovearall Average Rating 3.62
-4. Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
+4. Mumbai Contributes highest in Overall Revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
 5. AtliQ Exotica performs better compared to all type of properties with 320.3 Million revenue, rating 3.62, occupancy percentage 57.3% and cancellation rate as 24.37%.
-6. Week 24 recorded the highest revenue among all, which is 139.58 Million
+6. Week 19 recorded the highest Overall revenue among all, which is 140.71 Million
 7. JUNE:- overall  Revenue decreased by 1.48% , overall avg.rating decreased from 3.62 to 3.61, cancellation increased by approx 5% from previous month.
 8. JULY:- Though the cancellation decreased by approx 5% from previous month but overall  Revenue decreased by 11.61% from previous month.
+9. Luxury Category Hotel contributes more in Overall revenue than Business Category Hotel
    
 
 Report:
 
 
 
+
+[report.hospitality.pdf](https://github.com/user-attachments/files/15856558/report.hospitality.pdf)
 
 
 
