@@ -33,7 +33,8 @@ Report:
 
 
 
-[report.hospitality.pdf](https://github.com/user-attachments/files/15856558/report.hospitality.pdf)
+![Screenshot 2024-06-15 202518](https://github.com/susmitagupta10/AtilQ-Hospitality-Analysis/assets/166834605/9a78c775-41b4-4a7b-8280-e9340157e35f)
+
 
 
 
