@@ -30,9 +30,8 @@ Project Insights:-
 
 Report:
 
+![Screenshot 2024-06-16 132635](https://github.com/susmitagupta10/AtilQ-Hospitality-Analysis/assets/166834605/d5fc9824-d8f4-453d-8dd7-99dd7ecc0da4)
 
-
-![Uploading Screenshot 2024-06-16 132635.png…]()
 
 
 
