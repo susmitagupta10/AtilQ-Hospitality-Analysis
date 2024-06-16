@@ -29,8 +29,8 @@ Project Insights:-
    
 
 Report:
+![Screenshot 2024-06-16 141238](https://github.com/susmitagupta10/AtilQ-Hospitality-Analysis/assets/166834605/122e5c7e-ae58-4784-ab56-bf0cc8a8c39e)
 
-![Screenshot 2024-06-16 132635](https://github.com/susmitagupta10/AtilQ-Hospitality-Analysis/assets/166834605/d5fc9824-d8f4-453d-8dd7-99dd7ecc0da4)
 
 
 
