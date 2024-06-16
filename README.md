@@ -32,8 +32,8 @@ Report:
 
 
 
+![Uploading Screenshot 2024-06-16 132635.png…]()
 
-![Screenshot 2024-06-15 202518](https://github.com/susmitagupta10/AtilQ-Hospitality-Analysis/assets/166834605/9a78c775-41b4-4a7b-8280-e9340157e35f)
 
 
 
